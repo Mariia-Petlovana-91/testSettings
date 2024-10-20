@@ -1,0 +1,23 @@
+.tittle{
+	font-weight: 600;
+	text-align: center;
+}
+
+.list{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.item{
+	color: black;
+	max-width: 300px;
+	border: 1px solid grey;
+	border-radius: 5px;
+}
+
+.green{
+	color: green;
+	font-weight: 500;
+}
